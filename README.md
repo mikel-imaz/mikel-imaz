@@ -21,6 +21,11 @@ I hold a BSc in Physics and have a professional background in industrial automat
 [`Data Engineer Assoc.`](https://www.datacamp.com/certificate/DEA0019715243303)  
 [`AI Engineer for DS`](https://www.datacamp.com/certificate/AEDS0014919391728)   
 
-### And here's what I've been working on:
+### And here's what I've been working on lately:
 
+#### [Omdena: Urban Tree Observatory](https://www.omdena.com/chapter-challenges/urban-tree-observatory-data-driven-monitoring-conservation-in-ibague-colombia)
+
+#### [Udalmap: A wrapper for Udalmap API](https://pypi.org/project/udalmap/)
+
+#### [Data Science competition and personal projects](https://mikel-imaz.github.io/projects/intro.html)
 
