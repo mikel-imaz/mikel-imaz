@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m Mikel Imaz, an aspiring Data Science & AI professional based in Spain.
+
+I hold a BSc in Physics and have a professional background in industrial automation. I’m passionate about interpreting reality, extracting meaningful insights from complex data, and effectively communicating those insights with clarity.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikel-imaz&hide=html,makefile&hide_progress=true)
+
+
+
+
 <!--
 **mikel-imaz/mikel-imaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
