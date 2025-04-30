@@ -1,0 +1,4 @@
+site_name: My Docs
+site_url: https://mikel-imaz.github.io/mikel-imaz
+theme:
+  name: material
