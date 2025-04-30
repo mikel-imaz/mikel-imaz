@@ -34,14 +34,14 @@ I'm also familiar with:
 ![Static Badge](https://img.shields.io/badge/HuggingFace-_-%23FFD21E?logo=huggingface&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Gradio-_-%23F97316?logo=gradio&logoColor=white)
 
-I took [courses](https://www.datacamp.com/portfolio/mikel-imaz) at:
+I took my training courses at:
 
 [![Static Badge](https://img.shields.io/badge/DataCamp-%2303EF62?style=plastic&logo=datacamp&logoColor=black&labelColor=%2303EF62)](https://www.datacamp.com/portfolio/mikel-imaz)
 
 And got these certifications:  
-[`Data Scientist Assoc.`](https://www.datacamp.com/certificate/DSA0010038401807)  
-[`Data Engineer Assoc.`](https://www.datacamp.com/certificate/DEA0019715243303)  
-[`AI Engineer for DS`](https://www.datacamp.com/certificate/AEDS0014919391728)   
+[![Static Badge](https://img.shields.io/badge/_-Data%20Scientist%20Assoc.-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DSA0010038401807)
+[![Static Badge](https://img.shields.io/badge/_-Data%20Engineer%20Assoc.-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DEA0019715243303)
+[![Static Badge](https://img.shields.io/badge/_-AI%20Engineer%20for%20DS-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/AEDS0014919391728)
 
 <details>
   
