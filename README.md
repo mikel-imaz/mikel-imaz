@@ -1,6 +1,16 @@
 ## Hi there 👋
 I’m Mikel Imaz, an aspiring Data Science & AI professional based in Spain.
 
+```mermaid
+mindmap
+    Root(( ))
+        A(Data Analysis)
+        B(Machine Learning)
+        C(Statistics)
+        D(AI)
+        E(Python)
+```
+
 I hold a BSc in Physics and have a professional background in industrial automation. I’m passionate about interpreting reality, extracting meaningful insights from complex data, and effectively communicating those insights with clarity.
 
 Here's my basic stack:
@@ -25,7 +35,7 @@ And got these certifications:
   
 <summary>Some of my works:</summary>
 
-#### [Omdena: Urban Tree Observatory](https://www.omdena.com/chapter-challenges/urban-tree-observatory-data-driven-monitoring-conservation-in-ibague-colombia)
+#### [Omdena: Urban Tree Observatory](https://www.omdena.com/chapter-challenges/urban-tree-observatory-data-driven-monitoring-conservation-in-ibague-colombia) 
 
 #### [Udalmap: A wrapper for Udalmap API](https://pypi.org/project/udalmap/)
 
