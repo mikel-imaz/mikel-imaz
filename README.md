@@ -11,7 +11,7 @@ mindmap
         E(Python)
 ```
 
-I hold a BSc in Physics and have a professional background in industrial automation. I’m passionate about interpreting reality, extracting meaningful insights from complex data, and effectively communicating those insights with clarity.
+I hold a BSc in Physics and have a professional background in industrial automation. I’m passionate about interpreting reality, extracting meaningful insights from data, and communicating those insights with clarity.
 
 Here's my reference stack:
 
