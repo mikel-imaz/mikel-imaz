@@ -36,7 +36,7 @@ I'm also familiar with:
 
 I took [courses](https://www.datacamp.com/portfolio/mikel-imaz) at:
 
-![Static Badge](https://img.shields.io/badge/DataCamp-%2303EF62?style=plastic&logo=datacamp&logoColor=black&labelColor=%2303EF62)
+[![Static Badge](https://img.shields.io/badge/DataCamp-%2303EF62?style=plastic&logo=datacamp&logoColor=black&labelColor=%2303EF62)](https://www.datacamp.com/portfolio/mikel-imaz)
 
 And got these certifications:  
 [`Data Scientist Assoc.`](https://www.datacamp.com/certificate/DSA0010038401807)  
