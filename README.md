@@ -44,14 +44,5 @@ And got these certifications:
 [![Static Badge](https://img.shields.io/badge/_-Data%20Engineer%20Assoc.-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DEA0019715243303)
 [![Static Badge](https://img.shields.io/badge/_-AI%20Engineer%20for%20DS-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/AEDS0014919391728)
 
-<details>
-  
-<summary>Some of my works:</summary>
 
-#### [Omdena: Urban Tree Observatory](https://www.omdena.com/chapter-challenges/urban-tree-observatory-data-driven-monitoring-conservation-in-ibague-colombia) 
-
-#### [Udalmap: A wrapper for Udalmap API](https://pypi.org/project/udalmap/)
-
-#### [Data Science competition and personal projects](https://mikel-imaz.github.io/projects/intro.html)
-
-</details>
+## :point_right: [Check out my works!](https://mikel-imaz.github.io/mikel-imaz/)
