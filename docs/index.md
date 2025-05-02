@@ -3,19 +3,20 @@
 
 <div class="grid cards" markdown>
 
--   ![](imgs/da7uak.png)  
-    **Curso de Machine Learning**
+-   [:material-book-open-page-variant: **Machine Learning concepts**](#)
 
     ---
 
     ![](imgs/curso_ml.jpg)
 
-    Curso conceptual sobre Machine Learning y las bases de la Inteligencia Artificial.
+    A course following Cassie Kozyrkov's [MFML](https://www.youtube.com/watch?v=1vkb7BCMQd0) talks
 
-    [:octicons-arrow-right-24: Reference](#)
+    ---
 
--   ![](imgs/omdena.png)  
-    **Urban Tree Observatory**
+    En español
+
+
+-   [:material-pine-tree: **Urban Tree Observatory**](https://www.omdena.com/chapter-challenges/urban-tree-observatory-data-driven-monitoring-conservation-in-ibague-colombia)
 
     ---
 
@@ -23,28 +24,32 @@
 
     Data-Driven Monitoring & Conservation in Ibagué, Colombia
 
-    [:octicons-arrow-right-24: Reference](https://www.omdena.com/chapter-challenges/urban-tree-observatory-data-driven-monitoring-conservation-in-ibague-colombia)
+    ---
 
--   ![](imgs/da7uak.png)  
-    **Udalmap**
+    A [Omdena](https://www.omdena.com/chapter-challenges/urban-tree-observatory-data-driven-monitoring-conservation-in-ibague-colombia) colaboration
+
+-   [:octicons-package-16: **Udalmap**](https://pypi.org/project/udalmap/)
 
     ---
 
     ![](imgs/udalmap.png)
 
-    A wrapper for Udalmap API
+    A Python package for easy access to data provided by [Udalmap](https://opendata.euskadi.eus/api-udalmap/?api=udalmap) web API
 
-    [:octicons-arrow-right-24: Reference](https://pypi.org/project/udalmap/)
+    ---
 
--   ![](imgs/da7uak.png)  
-    **Data Science projects**
+    Published on [:simple-pypi: PyPI](https://pypi.org/project/udalmap/)
+
+-   [:octicons-beaker-16: **Data Science projects**](https://mikel-imaz.github.io/projects)
 
     ---
 
     ![](imgs/data_science_projects.png)
 
-    Data science projects, personal and competition projects.
+    My Data Science personal and competition projects, + some writings
 
-    [:octicons-arrow-right-24: Reference](https://mikel-imaz.github.io/projects)
+    ---
+
+    Bundled in a [:simple-jupyter:Jupyter-Book](https://mikel-imaz.github.io/projects)
 
 </div>

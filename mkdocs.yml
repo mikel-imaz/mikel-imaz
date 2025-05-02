@@ -2,6 +2,8 @@ site_name: Works by Mikel Imaz
 site_url: https://mikel-imaz.github.io/mikel-imaz
 theme:
   name: material
+nav:
+  - GitHub Profile: https://github.com/mikel-imaz
 markdown_extensions: 
   - attr_list
   - md_in_html
