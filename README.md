@@ -36,7 +36,7 @@ I'm also familiar with:
 
 I took my training courses at:
 
-[![Static Badge](https://img.shields.io/badge/DataCamp-%2303EF62?style=plastic&logo=datacamp&logoColor=black&labelColor=%2303EF62)](https://www.datacamp.com/portfolio/mikel-imaz "See my DataCamp profile and my list of courses")
+[![Static Badge](https://img.shields.io/badge/DataCamp-%2303EF62?style=plastic&logo=datacamp&logoColor=black&labelColor=%2303EF62)](https://www.datacamp.com/portfolio/mikel-imaz "See my list of +100 courses")
 
 And got these certifications:
 
