@@ -36,13 +36,13 @@ I'm also familiar with:
 
 I took my training courses at:
 
-[![Static Badge](https://img.shields.io/badge/DataCamp-%2303EF62?style=plastic&logo=datacamp&logoColor=black&labelColor=%2303EF62)](https://www.datacamp.com/portfolio/mikel-imaz)
+[![Static Badge](https://img.shields.io/badge/DataCamp-%2303EF62?style=plastic&logo=datacamp&logoColor=black&labelColor=%2303EF62)](https://www.datacamp.com/portfolio/mikel-imaz "See my DataCamp profile and my list of courses")
 
 And got these certifications:
 
-[![Static Badge](https://img.shields.io/badge/_-Data%20Scientist%20Assoc.-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DSA0010038401807)
-[![Static Badge](https://img.shields.io/badge/_-Data%20Engineer%20Assoc.-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DEA0019715243303)
-[![Static Badge](https://img.shields.io/badge/_-AI%20Engineer%20for%20DS-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/AEDS0014919391728)
+[![Static Badge](https://img.shields.io/badge/_-Data%20Scientist%20Assoc.-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DSA0010038401807 "See certificate")
+[![Static Badge](https://img.shields.io/badge/_-Data%20Engineer%20Assoc.-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DEA0019715243303 "See certificate")
+[![Static Badge](https://img.shields.io/badge/_-AI%20Engineer%20for%20DS-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/AEDS0014919391728 "See certificate")
 
 
 ## :point_right: [Check out my works!](https://mikel-imaz.github.io/mikel-imaz/)
