@@ -11,7 +11,8 @@ mindmap
         E(Python)
 ```
 
-I hold a BSc in Physics and have a professional background in industrial automation. I’m passionate about interpreting reality, extracting meaningful insights from data, and communicating those insights with clarity.
+I’m passionate about interpreting reality, extracting meaningful insights from data, and communicating those insights with clarity.  
+I'm also fond of Python and like to stay up to date in the exciting world of AI.
 
 Here's my reference stack:
 
@@ -34,15 +35,6 @@ I'm also familiar with:
 ![Static Badge](https://img.shields.io/badge/HuggingFace-_-%23FFD21E?logo=huggingface&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Gradio-_-%23F97316?logo=gradio&logoColor=white)
 
-I took my training courses at:
+&nbsp;
 
-[![Static Badge](https://img.shields.io/badge/DataCamp-%2303EF62?style=plastic&logo=datacamp&logoColor=black&labelColor=%2303EF62)](https://www.datacamp.com/portfolio/mikel-imaz "See my list of +100 courses")
-
-And got these certifications:
-
-[![Static Badge](https://img.shields.io/badge/_-Data%20Scientist%20Assoc.-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DSA0010038401807 "See certificate")
-[![Static Badge](https://img.shields.io/badge/_-Data%20Engineer%20Assoc.-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DEA0019715243303 "See certificate")
-[![Static Badge](https://img.shields.io/badge/_-AI%20Engineer%20for%20DS-gray?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/AEDS0014919391728 "See certificate")
-
-
-## :point_right: [Check out my works!](https://mikel-imaz.github.io/mikel-imaz/)
+:point_right: [More about me](https://mikel-imaz.github.io/mikel-imaz/)
