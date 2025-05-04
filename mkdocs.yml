@@ -1,12 +1,45 @@
-site_name: Works by Mikel Imaz
+# Project information
+site_name: Mikel Imaz
 site_url: https://mikel-imaz.github.io/mikel-imaz
+site_author: Mikel Imaz
+site_description: My personal website
+
+# Copyright
+copyright: Copyright &copy; 2025 Mikel Imaz
+
+# Configuration
 theme:
   name: material
-nav:
-  - GitHub Profile: https://github.com/mikel-imaz
+  features:
+    - navigation.instant
+
+# Extensions
 markdown_extensions: 
   - attr_list
   - md_in_html
+  - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+# Page tree
+nav:
+  - Welcome: index.md
+  - Works:
+      - works/index.md
+      - Curso ML: works/curso_ml.md
+      - Urban Tree: works/urban_tree.md
+      - Udalmap: works/udalmap.md
+      - DS projects: works/ds_projects.md
+  - About: about.md
+  - GitHub: https://github.com/mikel-imaz
+
+# Extras
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
