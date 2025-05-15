@@ -2,11 +2,11 @@
 
 <div class="grid cards" markdown>
 
--   [:material-book-open-page-variant: &nbsp; __Curso Machine Learning__](curso_ml.md)
+-   [:material-book-open-page-variant: &nbsp; __Curso de Machine Learning__](curso_ml.md)
 
     ---
 
-    [![](../imgs/curso_ml.jpg)](curso_ml.md)
+    [![](../imgs/curso_ml.png)](curso_ml.md)
 
 
 -   [:material-pine-tree: &nbsp; __Urban Tree Observatory__](urban_tree.md)

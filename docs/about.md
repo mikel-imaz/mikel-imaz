@@ -1,23 +1,32 @@
 # About me
 
-:material-school: &nbsp; I hold a BSc in Physics
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':false,'mainBranchName': 'Physics'}, 'themeVariables': {'git0': '#FF86C3', 'git1': '#D7FF86', 'git2': '#FFFF78'} }}%%
+    gitGraph BT:
+       commit
+       branch Automation
+       commit
+       branch Data-Science
+       commit
+```
 
-:material-tools: &nbsp; and have a professional background in industrial automation.
+I hold a BSc in Physics and have a professional background in industrial automation.
 
-:material-database-cog: &nbsp; Later on I took up Data Science.
+Then I took up Data Science.  
 
-:simple-datacamp: &nbsp; I did most of my training on [DataCamp](https://www.datacamp.com/portfolio/mikel-imaz){:target="_blank"}.
+I did most of my training on [:simple-datacamp:DataCamp](https://www.datacamp.com/portfolio/mikel-imaz){:target="_blank"}.  
 
-:material-file-certificate-outline: &nbsp; Where I got these certifications (1)
+Where I got these certifications(1)
 { .annotate }
 
 1. [:simple-datacamp: &nbsp; __AI Engineer for Data Scientists__](https://www.datacamp.com/certificate/AEDS0014919391728 "See certificate"){:target="_blank"}  
    [:simple-datacamp: &nbsp; __Data Engineer Associate__](https://www.datacamp.com/certificate/DEA0019715243303 "See certificate"){:target="_blank"}  
-   [:simple-datacamp: &nbsp; __Data Scientist Associate__](https://www.datacamp.com/certificate/DSA0010038401807 "See certificate"){:target="_blank"}  
+   [:simple-datacamp: &nbsp; __Data Scientist Associate__](https://www.datacamp.com/certificate/DSA0010038401807 "See certificate"){:target="_blank"}
 
-:material-book-education-outline: &nbsp; While completing +100 courses :material-arrow-down-right-bold:
+While completing +100 courses(1)
+{ .annotate }
 
-|course                                                  |topic                    |technology   |
+1. |course                                                  |topic                    |technology   |
 |--------------------------------------------------------|-------------------------|-------------|
 |Introduction to Data Science in Python                  |Programming              |Python       |
 |Intermediate Python                                     |Programming              |Python       |

@@ -2,7 +2,7 @@
 site_name: Mikel Imaz
 site_url: https://mikel-imaz.github.io/mikel-imaz
 site_author: Mikel Imaz
-site_description: My personal website
+site_description: My works
 
 # Copyright
 copyright: Copyright &copy; 2025 Mikel Imaz
@@ -10,6 +10,8 @@ copyright: Copyright &copy; 2025 Mikel Imaz
 # Configuration
 theme:
   name: material
+  icon:
+    logo: material/face-man-profile
   features:
     - navigation.instant
 
