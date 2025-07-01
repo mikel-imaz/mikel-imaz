@@ -1,19 +1,31 @@
 # Welcome!
 
-Here’s some info about what I do in:
+<div class="grid cards" markdown>
 
-```mermaid
-mindmap
-    Root(( ))
-        A(Data Analysis)
-        B(Machine Learning)
-        C(Statistics)
-        D(AI)
-        E(Python)
-```
+-   [:material-database-cog: &nbsp; __Data Science__](ds.md)
 
-You can:
+    ---
 
-- Take a look at my [__works__](works/index.md)
-- Know more [__about__](about.md) my background
-- Visit my [:simple-github: __profile__](https://github.com/mikel-imaz){:target="_blank"} to learn about my stack
+    Data Analysis | Machine Learning | Stats
+
+-   [:material-robot: &nbsp; __AI apps__](ai.md)
+
+    ---
+    
+    LLMs | RAG | Multimodal | Agents
+
+-   [:material-book-open-page-variant: &nbsp; __Lectures__](lectures.md)
+
+    ---
+
+    Concepts around ML and AI.
+
+    
+-   [:material-language-python: &nbsp; __Python__](python.md)
+
+    ---
+
+    Data processing | Modules, Packages
+
+
+</div>

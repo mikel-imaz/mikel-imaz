@@ -2,7 +2,7 @@
 icon: material/beaker
 ---
 
-# :material-beaker: &nbsp; Data Science projects
+# Data Science projects
 
 [![](../imgs/data_science_projects.png)](https://mikel-imaz.github.io/projects){:target="_blank"}
 

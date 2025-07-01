@@ -2,7 +2,7 @@
 icon: material/pine-tree
 ---
 
-# :material-pine-tree: &nbsp; Urban Tree Observatory
+# Urban Tree Observatory
 ![](../imgs/omdena.png)  
 ![](../imgs/omdena_urban_tree.jpg)
 

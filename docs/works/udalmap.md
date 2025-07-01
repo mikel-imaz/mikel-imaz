@@ -2,7 +2,7 @@
 icon: simple/pypi
 ---
 
-# :simple-pypi: &nbsp; Udalmap API wrapper
+# Udalmap API wrapper
 
 ![](../imgs/udalmap.png)
 
@@ -18,6 +18,6 @@ A Python package for easy access to data provided by [Udalmap](https://opendata.
 
 |subject|tasks|
 |-|-|
-|Python package|OOP, DevOps, PyPI|
+|Python package|OOP, [PyPI :simple-pypi:](https://pypi.org/project/udalmap){:target="_blank"}|
 |Code testing|Unit testing, CI with GitHub Actions|
 |Documentation|:simple-sphinx: Sphinx ([automatic](https://mikel-imaz.github.io/udalmap/){:target="_blank"} with docstrings)|

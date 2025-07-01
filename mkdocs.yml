@@ -1,5 +1,5 @@
 # Project information
-site_name: Mikel Imaz
+site_name: Works by Mikel Imaz
 site_url: https://mikel-imaz.github.io/mikel-imaz
 site_author: Mikel Imaz
 site_description: My works
@@ -32,14 +32,11 @@ markdown_extensions:
 # Page tree
 nav:
   - Welcome: index.md
-  - Works:
-      - works/index.md
-      - Curso ML: works/curso_ml.md
-      - Urban Tree: works/urban_tree.md
-      - Udalmap: works/udalmap.md
-      - DS projects: works/ds_projects.md
-  - About: about.md
-  - GitHub: https://github.com/mikel-imaz
+  - Data Science: ds.md
+  - AI apps: ai.md
+  - Lectures: lectures.md
+  - Python: python.md
+  - GitHub profile: https://github.com/mikel-imaz
 
 # Extras
 extra_javascript:

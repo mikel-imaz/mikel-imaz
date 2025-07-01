@@ -1,8 +1,4 @@
----
-icon: material/book-open-page-variant
----
-
-# :material-book-open-page-variant: &nbsp; Curso de Machine Learning
+# Curso de Machine Learning
 
 [![](../imgs/curso_ml.png)](https://mikel-imaz.github.io/curso-ml/){:target="_blank"}
 
