@@ -2,30 +2,26 @@
 
 <div class="grid cards" markdown>
 
--   [:material-database-cog: &nbsp; __Data Science__](ds.md)
+-   [:octicons-pin-24: &nbsp; __Data Science projects__ ](https://mikel-imaz.github.io/projects){:target="_blank"}
 
     ---
 
-    Data Analysis | Machine Learning | Stats
+    [![](imgs/data_science_projects.png)](https://mikel-imaz.github.io/projects){:target="_blank"}
 
--   [:material-robot: &nbsp; __AI apps__](ai.md)
+-   [&nbsp; __Projects__](projects.md)
 
     ---
     
-    LLMs | RAG | Multimodal | Agents
+    [:material-database-cog: &nbsp; Data Science](ds.md)
 
--   [:material-book-open-page-variant: &nbsp; __Lectures__](lectures.md)
+    [:material-robot: &nbsp; AI apps](ai.md)
 
-    ---
+    [:material-book-open-page-variant: &nbsp; Lectures](lectures.md)
 
-    Concepts around ML and AI.
-
-    
--   [:material-language-python: &nbsp; __Python__](python.md)
-
-    ---
-
-    Data processing | Modules, Packages
+    [:material-language-python: &nbsp; Python](python.md)
 
 
 </div>
+
+[:material-face-man: About me](about.md)  
+[:material-github: GitHub profile](https://github.com/mikel-imaz){:target="_blank"}

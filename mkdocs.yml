@@ -11,7 +11,7 @@ copyright: Copyright &copy; 2025 Mikel Imaz
 theme:
   name: material
   icon:
-    logo: material/face-man-profile
+    logo: material/face-man
   features:
     - navigation.instant
 
@@ -36,6 +36,7 @@ nav:
   - AI apps: ai.md
   - Lectures: lectures.md
   - Python: python.md
+  - About me: about.md
   - GitHub profile: https://github.com/mikel-imaz
 
 # Extras

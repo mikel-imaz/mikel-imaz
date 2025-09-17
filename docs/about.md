@@ -10,20 +10,20 @@
        commit
 ```
 
-I hold a BSc in Physics and have a professional background in industrial automation.
+:material-hand-pointing-up: I hold a BSc in Physics and have a professional background in industrial automation.
 
-Then I took up Data Science.  
+:material-hand-pointing-right: Then I took up Data Science.  
 
-I did most of my training on [:simple-datacamp:DataCamp](https://www.datacamp.com/portfolio/mikel-imaz){:target="_blank"}.  
+:material-school: I did most of my training on [:simple-datacamp:DataCamp](https://www.datacamp.com/portfolio/mikel-imaz){:target="_blank"}.  
 
-Where I got these certifications(1)
+:material-certificate: Where I got these certifications(1)
 { .annotate }
 
 1. [:simple-datacamp: &nbsp; __AI Engineer for Data Scientists__](https://www.datacamp.com/certificate/AEDS0014919391728 "See certificate"){:target="_blank"}  
    [:simple-datacamp: &nbsp; __Data Engineer Associate__](https://www.datacamp.com/certificate/DEA0019715243303 "See certificate"){:target="_blank"}  
    [:simple-datacamp: &nbsp; __Data Scientist Associate__](https://www.datacamp.com/certificate/DSA0010038401807 "See certificate"){:target="_blank"}
 
-While completing +100 courses(1)
+:material-format-line-spacing: While completing 125 courses (2022-2025)(1)
 { .annotate }
 
 1. |course                                                  |topic                    |technology   |
@@ -146,4 +146,10 @@ While completing +100 courses(1)
 |Introduction to APIs in Python                          |Programming              |Python       |
 |Introduction to Testing in Python                       |Programming              |Python       |
 |Developing Python Packages                              |Programming              |Python       |
-
+|Retrieval Augmented Generation (RAG) with LangChain     |AI                       |Python       |
+|Designing Agentic Systems with LangChain                |AI                       |Python       |
+|Multi-Agent Systems with LangGraph                      |AI                       |Python       |
+|Introduction to AI Agents                               |AI                       |Theory       |
+|Building AI Agents with Google ADK                      |AI                       |Python       |
+|Introduction to FastAPI                                 |Programming              |FastAPI      |
+|Deploying AI into Production with FastAPI               |Programming              |FastAPI      |
