@@ -14,14 +14,14 @@
 
 :material-hand-pointing-right: Then I took up Data Science.  
 
-:material-school: I did most of my training on [:simple-datacamp:DataCamp](https://www.datacamp.com/portfolio/mikel-imaz){:target="_blank"}.  
+:material-school: I did most of my training on [:simple-datacamp:DataCamp](https://www.datacamp.com/portfolio/mikel-imaz).  
 
 :material-certificate: Where I got these certifications(1)
 { .annotate }
 
-1. [:simple-datacamp: &nbsp; __AI Engineer for Data Scientists__](https://www.datacamp.com/certificate/AEDS0014919391728 "See certificate"){:target="_blank"}  
-   [:simple-datacamp: &nbsp; __Data Engineer Associate__](https://www.datacamp.com/certificate/DEA0019715243303 "See certificate"){:target="_blank"}  
-   [:simple-datacamp: &nbsp; __Data Scientist Associate__](https://www.datacamp.com/certificate/DSA0010038401807 "See certificate"){:target="_blank"}
+1. [:simple-datacamp: &nbsp; __AI Engineer for Data Scientists__](https://www.datacamp.com/certificate/AEDS0014919391728 "See certificate") 
+   [:simple-datacamp: &nbsp; __Data Engineer Associate__](https://www.datacamp.com/certificate/DEA0019715243303 "See certificate")  
+   [:simple-datacamp: &nbsp; __Data Scientist Associate__](https://www.datacamp.com/certificate/DSA0010038401807 "See certificate")
 
 :material-format-line-spacing: While completing 125 courses (2022-2025)(1)
 { .annotate }

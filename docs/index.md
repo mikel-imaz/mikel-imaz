@@ -2,11 +2,11 @@
 
 <div class="grid cards" markdown>
 
--   [:octicons-pin-24: &nbsp; __Data Science projects__ ](https://mikel-imaz.github.io/projects){:target="_blank"}
+-   [:octicons-pin-24: &nbsp; __Data Science projects__ ](https://mikel-imaz.github.io/projects)
 
     ---
 
-    [![](imgs/data_science_projects.png)](https://mikel-imaz.github.io/projects){:target="_blank"}
+    [![](imgs/data_science_projects.png)](https://mikel-imaz.github.io/projects)
 
 -   [&nbsp; __Projects__](projects.md)
 
@@ -24,4 +24,4 @@
 </div>
 
 [:material-face-man: About me](about.md)  
-[:material-github: GitHub profile](https://github.com/mikel-imaz){:target="_blank"}
+[:material-github: GitHub profile](https://github.com/mikel-imaz)
