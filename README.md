@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m Mikel Imaz, a Data & AI professional.
 
-I began in Data Science and Machine Learning, and recently I've been transitioning into the role of an AI Engineer.
+I started in Data Science and Machine Learning, and lately I've also been getting into AI Engineering.
 
 These are my reference tools in Data Science:
 
